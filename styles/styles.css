@@ -122,3 +122,10 @@ main{
     display: flex;
     justify-content: space-evenly;
 }
+.info-title{
+    font-size: 20px;
+}
+.infoo-dscription{
+    font-weight: 700;
+    font-size:20px ;
+}
